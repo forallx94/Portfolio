@@ -1,4 +1,4 @@
-# AITHENUTRIGENE, AI Researcher, 04. 2020 - 
+# AITHENUTRIGENE, AI Researcher, 04. 2023 - 
 • Responsibility : Classification models, location detection, OCR, and more with AI image teams
 
 
