@@ -11,7 +11,6 @@
 
         - Background : Extracting information from in-store price tags with photography
 
-
         – Achievement: 
         • Taking in-store photos. 
         • Locate price tags in the photo. ( Azure computer vision : Object Detection)
@@ -43,6 +42,7 @@
     </details>
 
 * Project 2: Grass disease detection
+![grass_disease_detection](./image/grass_disease_detection/place_mountain1_date_May6_Time_1720_speed_3_Height_5M_6.jpg)
     <details>
     <summary> Grass disease detection details</summary>
         <div markdown="1">
@@ -82,8 +82,7 @@
 
         – Achievement: 
         • Call factory compressor,rectifier data from MySQL. 
-        • Data Preprocessing. Un-supervised anomaly detection(Machine Learning, Autoencoder). 
-        • Upload result at MongoDB.
+        • Data Preprocessing. Un-supervised anomaly detection(Machine Learning, prophet, Autoencoder). 
 
         - link : https://github.com/forallx94/Sequential_Anomaly_detecion
 
