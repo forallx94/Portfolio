@@ -18,6 +18,21 @@
     </div>
     </details>
 
+* Project 2: Shelf object detection
+![Azure OCR1](./image/shelf_object_detection/output.png)  
+    <details>
+    <summary> Shelf object detection </summary>
+        <div markdown="1">
+
+        - Background : Object detection and image classification on snack shelf
+
+        – Achievement: 
+        • Taking in-store snack shelf photos. 
+        • Object detect snack in the photo. ( DINO model in deterx library (https://github.com/IDEA-Research/detrex/))
+        • Image classification and find snack name ( VIT in timm library)
+    </div>
+    </details>
+
 
 # SPILAB, AI Researcher 07. 2020 - 11. 2021
 • Responsibility : collaborated with the CEO on the start-up and external aspects of the project, while leading the development and execution of the work tasks
