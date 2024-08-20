@@ -48,7 +48,7 @@
             • Vehicle information 3 (car type , car license plate, vehicle identification number(VIN) )
         • Image classification by combining four images. ( Swin-Transformer V2 (https://github.com/microsoft/Swin-Transformer) )
             • Anomaly detection through slightly unsupervised methods
-        • Commercial vehicle license plate details and VIN OCR ( Use PaddleOCR Directly (https://github.com/PaddlePaddle/PaddleOCR/tree/release/2.7.1) )
+        • Commercial vehicle license plate and VIN OCR ( Use PaddleOCR Directly (https://github.com/PaddlePaddle/PaddleOCR/tree/release/2.7.1) )
     </div>
     </details>
 
