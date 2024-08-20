@@ -2,7 +2,7 @@
 • Responsibility : Classification models, location detection, OCR, and more with AI image teams
 
 
-* Project 1: Azure OCR 
+* Project 1: Azure OCR ( 23.04 ~ 23.07 )
 ![Azure OCR1](./image/azure_ocr/IMG_8657.JPG)  
 ![Azure OCR2](./image/azure_ocr/IMG_8657_0.JPG)
     <details>
@@ -18,7 +18,7 @@
     </div>
     </details>
 
-* Project 2: Shelf object detection
+* Project 2: Shelf object detection ( 23.07 ~ 23.11 )
 ![shelf_object_detection](./image/shelf_object_detection/output.png)  
     <details>
     <summary> Shelf object detection </summary>
@@ -34,7 +34,7 @@
     </details>
 
 
-* Project 2: Commercial vehicle classification
+* Project 3: Commercial vehicle classification ( 23.11 ~ 24.08 )
 ![Commercial vehicle](./image/Commercial_vehicle_classification/Commercial_vehicle_classification.png)
     <details>
     <summary> Commercial vehicle classification </summary>
