@@ -19,7 +19,7 @@
     </details>
 
 * Project 2: Shelf object detection
-![Azure OCR1](./image/shelf_object_detection/output.png)  
+![shelf_object_detection](./image/shelf_object_detection/output.png)  
     <details>
     <summary> Shelf object detection </summary>
         <div markdown="1">
@@ -32,6 +32,26 @@
         • Image classification and find snack name ( VIT in timm library)
     </div>
     </details>
+
+
+* Project 2: Commercial vehicle classification
+![Commercial vehicle](./image/Commercial_vehicle_classification/Commercial_vehicle_classification.png)
+    <details>
+    <summary> Commercial vehicle classification </summary>
+        <div markdown="1">
+
+        - Background : A project to check with AI whether the contents of the photo and the entered vehicle information match in commercial vehicles
+
+        – Achievement: 
+        • Input 6 images and vehicle information through the app.
+            • Vehicle photos 4(front, back, right, left)
+            • Vehicle information 3 (car type , car license plate, vehicle identification number(VIN) )
+        • Image classification by combining four images. ( Swin-Transformer V2 (https://github.com/microsoft/Swin-Transformer) )
+            • Anomaly detection through slightly unsupervised methods
+        • Commercial vehicle license plate details and VIN OCR ( Use PaddleOCR Directly (https://github.com/PaddlePaddle/PaddleOCR/tree/release/2.7.1) )
+    </div>
+    </details>
+
 
 
 # SPILAB, AI Researcher 07. 2020 - 11. 2021
