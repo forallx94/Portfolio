@@ -81,7 +81,7 @@ An AI researcher with extensive experience in AI image processing and data analy
 ---
 
 #### 4. Power Consumption Prediction for Automotive Parts Forging Lines
-*Period: November 2023 - August 2024*
+*Period: November 2023 - December 2025*
 
 ![Power Prediction](./image/power_prediction/001.png)
 
